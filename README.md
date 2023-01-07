@@ -1,3 +1,15 @@
-## Guide
+# How To
 
-This guide covers the necessary bits. As the project evolves, it will only become more comprehensive
+
+## Add new page
+
+```
+    hugo new post/page-name.md
+```
+
+## Deploy
+
+```
+    ./deploy.sh
+```
+
