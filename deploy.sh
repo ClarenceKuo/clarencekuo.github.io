@@ -2,4 +2,4 @@ hugo
 cd public
 git add .
 git commit -m "$now - build blog"
-git push origin main:main
+git push public main:main
