@@ -1,5 +1,5 @@
 +++
-title = "Compose"
+title = "Ming-Hsuan Kuo"
 [data]
 baseChartOn = 3
 colors = ["#627c62", "#11819b", "#ef7f1a", "#4e1154"]
@@ -28,6 +28,6 @@ Or, [generate graphs, charts](docs/compose/graphs-charts-tables/#show-a-pie-doug
 {{< /column >}}
 
 {{< column >}}
-![diy](/images/scribble.jpg)
+![diy](/images/home.JPG)
 {{< /column >}}
 {{< /block >}}
